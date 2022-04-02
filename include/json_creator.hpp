@@ -1,6 +1,4 @@
-//
-// Created by ilya on 22.03.2022.
-//
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_JSON_CREATOR_HPP_
 #define INCLUDE_JSON_CREATOR_HPP_
