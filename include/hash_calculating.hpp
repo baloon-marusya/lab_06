@@ -1,4 +1,4 @@
-//Copyright 2022
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_HASH_CALCULATING_HPP_
 #define INCLUDE_HASH_CALCULATING_HPP_
