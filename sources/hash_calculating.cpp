@@ -1,6 +1,4 @@
-//
-// Created by ilya on 22.03.2022.
-//
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #include <hash_calculating.hpp>
 
