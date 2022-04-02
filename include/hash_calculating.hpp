@@ -1,6 +1,4 @@
-//
-// Created by ilya on 22.03.2022.
-//
+//Copyright 2022
 
 #ifndef INCLUDE_HASH_CALCULATING_HPP_
 #define INCLUDE_HASH_CALCULATING_HPP_
