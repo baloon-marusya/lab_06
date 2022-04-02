@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_LOGGING_HPP_
 #define INCLUDE_LOGGING_HPP_
